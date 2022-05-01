@@ -36,7 +36,3 @@ src="https://img.shields.io/twitch/status/samflashbang2022?logo=twitchsx&style=f
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/SAMFLASHBANG"><img src="https://github-readme-stats.vercel.app/api?username=SAMFLASHBANG&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="SAMFLASHBANG's GitHub stats" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/samflashbang"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
