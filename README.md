@@ -14,7 +14,7 @@ Hi, I'm Sam I am from Iran The programming languages I work with Python, HTML, C
 * 🤝  I'm open to collaborating on site design
 
 <a href="https://www.twitch.tv/samflashbang2022" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/samflashbang2022?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/twitch/status/samflashbang2022?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=0f172a&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
@@ -35,7 +35,7 @@ src="https://img.shields.io/twitch/status/samflashbang2022?logo=twitchsx&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SAMFLASHBANG"><img src="https://github-readme-stats.vercel.app/api?username=SAMFLASHBANG&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SAMFLASHBANG's GitHub stats" /></a>
+<a href="http://www.github.com/SAMFLASHBANG"><img src="https://github-readme-stats.vercel.app/api?username=SAMFLASHBANG&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="SAMFLASHBANG's GitHub stats" /></a>
 
 ### Support Me
 
