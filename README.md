@@ -13,18 +13,6 @@ Hi, I'm Sam I am from Iran The programming languages I work with Python, HTML, C
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on site design
 
-<a href="https://www.twitch.tv/samflashbang2022" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/samflashbang2022?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=0f172a&label=TWITCH+STATUS" /></a>
-
-### Skills
-
-<p align="center">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
-
 
 ### Socials
 
