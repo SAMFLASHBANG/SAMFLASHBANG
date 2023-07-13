@@ -8,7 +8,7 @@ Hello Guys My name is Sam and I live in Karaj, Iran I started programming in 202
 
 *   ✉️  You can contact me at [samflashbang2020@gmail.com](mailto:samflashbang2020@gmail.com)
 *   🧠  I'm learning TypeScript & React
-*   ⚡  I love traveling and programming, but let's not forget that art is also very necessary in life<a href="https://www.github.com//SAMFLASHBANG" target="_blank" rel="noreferrer"><img
+*   ⚡  I love traveling and programming, but let's not forget that art is also very necessary in life<a href="https://www.github.com//SAMFLASHBANG" target="_blank" rel="noreferrer">
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
